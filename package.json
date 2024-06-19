@@ -29,7 +29,7 @@
     "image-thumbnail": "^1.0.10",
     "mime-types": "^2.1.35",
     "mongodb": "^3.5.9",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "sha1": "^1.1.1",
     "sharp": "^0.33.2",
     "supertest": "^6.3.4",
